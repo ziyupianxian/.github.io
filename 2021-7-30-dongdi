@@ -1,0 +1,3 @@
+# Ubuntu commands
+start a program: sudo (name) start
+sleep:systemctl hibernate
